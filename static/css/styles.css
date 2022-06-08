@@ -1,0 +1,27 @@
+body {
+    background-color: #c3ffc8;
+    text-align: left;
+}
+
+.navbar {
+    background-color: #333333;
+
+
+    
+}   
+
+a {
+    color: #f1f9f9;
+    
+
+}
+
+a:hover {
+    color: #f0f0f0;
+    
+
+  }
+
+.card{
+    background-color: #e6fce8;
+}
